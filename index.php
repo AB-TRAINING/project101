@@ -11,6 +11,10 @@
 
     hello there
     the angel from my nightmare
-    
+    the shadow in the background of the morgue
+    the unsuspecting victim
+    of darkness in the valley
+    we can live like jack and sally if we want
+
 </body>
 </html></html>
