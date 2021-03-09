@@ -1,1 +1,1 @@
-This is our first project, just testing out cllaboration in git & github.
+This is our first project, just testing out collaboration in git & github.
