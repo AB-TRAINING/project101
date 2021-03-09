@@ -15,6 +15,10 @@
     the unsuspecting victim
     of darkness in the valley
     we can live like jack and sally if we want
+    where you can always find me
+    and we'll have halloween on christmas
+    and in the night we'll wish this never ends
+    wish this never ends
 
 </body>
 </html></html>
