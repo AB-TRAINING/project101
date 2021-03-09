@@ -7,6 +7,7 @@
     <title>Melvin's First Git</title>
 </head>
 <body>
-    <p> Parang Tanga lang</p>
+    <h1> Parang Tanga lang</h1>
+    <p> nahulog sa kanal</p>
 </body>
 </html>
