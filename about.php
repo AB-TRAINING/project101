@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    welcome to my page dimaksqweqeq
+    Coding King is here!
 
 </body>
 </html>
