@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    making a branch and pushing a branch to a repository url 
+    making a branch and pushing a branch to a repository
 </body>
 </html>
